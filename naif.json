@@ -1,0 +1,183 @@
+{
+  "totalFiles": 29,
+  "totalDuration": "01:59:39",
+  "icon": "https://cdn.jsdelivr.net/gh/isev01/icon@main/naif.jpg",
+  "sec_ar": "نايف الشرهان",
+  "sec_en": "Naif Al Sharhan",
+  "files": [
+    {
+      "id": "01",
+      "ar": "أقصى العيون",
+      "en": "Aqsa al-uyun",
+      "duration": "04:51"
+    },
+    {
+      "id": "02",
+      "ar": "أكرم بآل",
+      "en": "Akrim bi al",
+      "duration": "05:28"
+    },
+    {
+      "id": "03",
+      "ar": "أمتي",
+      "en": "Ummati",
+      "duration": "03:51"
+    },
+    {
+      "id": "04",
+      "ar": "أندلس السلام",
+      "en": "Andalus al-salam",
+      "duration": "04:55"
+    },
+    {
+      "id": "05",
+      "ar": "إلهي",
+      "en": "Ilahi",
+      "duration": "01:01"
+    },
+    {
+      "id": "06",
+      "ar": "إنا كفيناك",
+      "en": "Inna kafaynak",
+      "duration": "06:24"
+    },
+    {
+      "id": "07",
+      "ar": "الحسن والحسين",
+      "en": "Al-Hasan wal-Husayn",
+      "duration": "04:50"
+    },
+    {
+      "id": "08",
+      "ar": "الصلاة على النبي",
+      "en": "Al-salatu ala al-nabi",
+      "duration": "00:56"
+    },
+    {
+      "id": "09",
+      "ar": "خال المؤمنين",
+      "en": "Khal al-muminin",
+      "duration": "04:53"
+    },
+    {
+      "id": "10",
+      "ar": "خير الورى",
+      "en": "Khayru al-wara",
+      "duration": "04:57"
+    },
+    {
+      "id": "11",
+      "ar": "رعى الله الأحبة",
+      "en": "Ra'a Allah al-ahbba",
+      "duration": "03:03"
+    },
+    {
+      "id": "12",
+      "ar": "طول الأمل",
+      "en": "Tul al-amal",
+      "duration": "05:18"
+    },
+    {
+      "id": "13",
+      "ar": "فتية القرآن",
+      "en": "Fityat al-Quran",
+      "duration": "04:49"
+    },
+    {
+      "id": "14",
+      "ar": "فلتهنؤوا",
+      "en": "Faltahna'u",
+      "duration": "03:53"
+    },
+    {
+      "id": "15",
+      "ar": "قلب واحد",
+      "en": "Qalb wahid",
+      "duration": "03:00"
+    },
+    {
+      "id": "16",
+      "ar": "لأجلك يامشاري",
+      "en": "Li ajlika ya Mashari",
+      "duration": "08:17"
+    },
+    {
+      "id": "17",
+      "ar": "لأهل البيت",
+      "en": "Li ahli al-bayt",
+      "duration": "03:20"
+    },
+    {
+      "id": "18",
+      "ar": "لا زال",
+      "en": "La zala",
+      "duration": "03:44"
+    },
+    {
+      "id": "19",
+      "ar": "لك عينان",
+      "en": "Laka aynan",
+      "duration": "03:46"
+    },
+    {
+      "id": "20",
+      "ar": "ماوهنا",
+      "en": "Ma wahana",
+      "duration": "04:12"
+    },
+    {
+      "id": "21",
+      "ar": "متاب المنيب",
+      "en": "Matab al-munib",
+      "duration": "04:35"
+    },
+    {
+      "id": "22",
+      "ar": "مناجاة عبد ضعيف",
+      "en": "Munajat abd da'if",
+      "duration": "04:35"
+    },
+    {
+      "id": "23",
+      "ar": "نشيدة بني هاشم",
+      "en": "Nashidat Bani Hashim",
+      "duration": "04:34"
+    },
+    {
+      "id": "24",
+      "ar": "نشيدة عائشة أم المؤمنين",
+      "en": "Nashidat A'isha umm al-muminin",
+      "duration": "04:13"
+    },
+    {
+      "id": "25",
+      "ar": "نشيدة فاطمة الزهراء",
+      "en": "Nashidat Fatima al-Zahra",
+      "duration": "05:26"
+    },
+    {
+      "id": "26",
+      "ar": "نفضنا",
+      "en": "Nafadna",
+      "duration": "01:27"
+    },
+    {
+      "id": "27",
+      "ar": "هلال الندى",
+      "en": "Hilal al-nada",
+      "duration": "02:58"
+    },
+    {
+      "id": "28",
+      "ar": "ياذاكر الأصحاب",
+      "en": "Ya dhakira al-ashab",
+      "duration": "03:26"
+    },
+    {
+      "id": "29",
+      "ar": "يحذوه الأمل",
+      "en": "Yahdhuh al-amal",
+      "duration": "02:57"
+    }
+  ]
+}
