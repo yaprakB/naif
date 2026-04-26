@@ -9,175 +9,262 @@
       "id": "1",
       "ar": "أقصى العيون",
       "en": "Aqsa al-uyun",
-      "duration": "04:51"
+      "duration": "04:51",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "2",
       "ar": "أكرم بآل",
       "en": "Akrim bi al",
-      "duration": "05:28"
+      "duration": "05:28",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "3",
       "ar": "أمتي",
       "en": "Ummati",
-      "duration": "03:51"
+      "duration": "03:51",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "4",
       "ar": "أندلس السلام",
       "en": "Andalus al-salam",
-      "duration": "04:55"
+      "duration": "04:55",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "5",
       "ar": "إلهي",
       "en": "Ilahi",
-      "duration": "01:01"
+      "duration": "01:01",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "6",
       "ar": "إنا كفيناك",
       "en": "Inna kafaynak",
-      "duration": "06:24"
+      "duration": "06:24",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "7",
       "ar": "الحسن والحسين",
       "en": "Al-Hasan wal-Husayn",
-      "duration": "04:50"
+      "duration": "04:50",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "8",
       "ar": "الصلاة على النبي",
       "en": "Al-salatu ala al-nabi",
-      "duration": "00:56"
+      "duration": "00:56",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "9",
       "ar": "خال المؤمنين",
       "en": "Khal al-muminin",
-      "duration": "04:53"
+      "duration": "04:53",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "10",
       "ar": "خير الورى",
       "en": "Khayru al-wara",
-      "duration": "04:57"
+      "duration": "04:57",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "11",
       "ar": "رعى الله الأحبة",
       "en": "Ra'a Allah al-ahbba",
-      "duration": "03:03"
+      "duration": "03:03",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "12",
       "ar": "طول الأمل",
       "en": "Tul al-amal",
-      "duration": "05:18"
+      "duration": "05:18",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "13",
       "ar": "فتية القرآن",
       "en": "Fityat al-Quran",
-      "duration": "04:49"
+      "duration": "04:49",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "14",
       "ar": "فلتهنؤوا",
       "en": "Faltahna'u",
-      "duration": "03:53"
+      "duration": "03:53",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "15",
       "ar": "قلب واحد",
       "en": "Qalb wahid",
-      "duration": "03:00"
+      "duration": "03:00",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "16",
       "ar": "لأجلك يامشاري",
       "en": "Li ajlika ya Mashari",
-      "duration": "08:17"
+      "duration": "08:17",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "17",
       "ar": "لأهل البيت",
       "en": "Li ahli al-bayt",
-      "duration": "03:20"
+      "duration": "03:20",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "18",
       "ar": "لا زال",
       "en": "La zala",
-      "duration": "03:44"
+      "duration": "03:44",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "19",
       "ar": "لك عينان",
       "en": "Laka aynan",
-      "duration": "03:46"
+      "duration": "03:46",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "20",
       "ar": "ماوهنا",
       "en": "Ma wahana",
-      "duration": "04:12"
+      "duration": "04:12",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "21",
       "ar": "متاب المنيب",
       "en": "Matab al-munib",
-      "duration": "04:35"
+      "duration": "04:35",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "22",
       "ar": "مناجاة عبد ضعيف",
       "en": "Munajat abd da'if",
-      "duration": "04:35"
+      "duration": "04:35",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "23",
       "ar": "نشيدة بني هاشم",
       "en": "Nashidat Bani Hashim",
-      "duration": "04:34"
+      "duration": "04:34",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "24",
       "ar": "نشيدة عائشة أم المؤمنين",
       "en": "Nashidat A'isha umm al-muminin",
-      "duration": "04:13"
+      "duration": "04:13",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "25",
       "ar": "نشيدة فاطمة الزهراء",
       "en": "Nashidat Fatima al-Zahra",
-      "duration": "05:26"
+      "duration": "05:26",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "26",
       "ar": "نفضنا",
       "en": "Nafadna",
-      "duration": "01:27"
+      "duration": "01:27",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "27",
       "ar": "هلال الندى",
       "en": "Hilal al-nada",
-      "duration": "02:58"
+      "duration": "02:58",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "28",
       "ar": "ياذاكر الأصحاب",
       "en": "Ya dhakira al-ashab",
-      "duration": "03:26"
+      "duration": "03:26",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "29",
       "ar": "يحذوه الأمل",
       "en": "Yahdhuh al-amal",
-      "duration": "02:57"
+      "duration": "02:57",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     }
   ]
 }
